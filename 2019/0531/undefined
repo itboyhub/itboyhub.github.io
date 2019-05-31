@@ -11,23 +11,21 @@
     
 
     
-    <meta name="description" content="本站致力于建立全球最大的程序猿学习圈子，为了更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
+    <meta name="description" content="本站致力于建立全球最大的软件工程师学习圈子，为更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
 <meta name="keywords" content="Spring Boot,SpringBoot,SpringCloud,Spring Cloud,微服务,Spring Boot 学习资料，Spring, Spring Boot, 导航,Spring Boot 开源项目,Spring Cloud学习资料,Spring, Spring Cloud, 导航,Spring Cloud 开源项目">
 <meta property="og:type" content="article">
 <meta property="og:title" content="来啦，老弟！">
 <meta property="og:url" content="http://www.itboyhub.com/2019/0531/undefined">
 <meta property="og:site_name" content="IT 学习资源汇总">
-<meta property="og:description" content="本站致力于建立全球最大的程序猿学习圈子，为了更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
+<meta property="og:description" content="本站致力于建立全球最大的软件工程师学习圈子，为更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="http://www.itboyhub.com/images/gzh-2.png">
-<meta property="og:updated_time" content="2019-05-31T12:23:06.058Z">
+<meta property="og:updated_time" content="2019-05-31T12:31:52.672Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="来啦，老弟！">
-<meta name="twitter:description" content="本站致力于建立全球最大的程序猿学习圈子，为了更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
+<meta name="twitter:description" content="本站致力于建立全球最大的软件工程师学习圈子，为更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。 本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。">
 <meta name="twitter:image" content="http://www.itboyhub.com/images/gzh-2.png">
 
-    
-    <link rel="alternative" href="/atom.xml" title="IT 学习资源汇总" type="application/atom+xml">
     
     
     <link rel="icon" href="/img/favicon.ico">
@@ -112,7 +110,7 @@
 		
 		</div>
 		
-		<p>本站致力于建立全球最大的程序猿学习圈子，为了更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。</p>
+		<p>本站致力于建立全球最大的软件工程师学习圈子，为更多的猿和媛提供丰富详实的学习资料，帮助各位猿和媛早日突破技术瓶颈，摆脱 996 的枷锁，走上人生巅峰。</p>
 <p>本站所有资源定期更新，关注如下二维码，可以获取资源更新通知。</p>
 <div style="display:flex;justify-content:space-between"><a href="http://www.itboyhub.com/images/gzh-2.png" title class="fancybox" rel="article0"><img src="http://www.itboyhub.com/images/gzh-2.png" style="width:258px;height:258px" alt></a></div>
 
@@ -161,7 +159,7 @@
   
 <div class="github-card">
 <p class="asidetitle">Github 名片</p>
-<div class="github-card" data-github="https://github.com/lenve" data-theme="medium"></div>
+<div class="github-card" data-github="lenve" data-theme="medium"></div>
 <script type="text/javascript" src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </div>
 
@@ -194,7 +192,7 @@
 
 
   <div class="rsspart">
-	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
+	<a href target="_blank" title="rss">RSS 订阅</a>
 </div>
 
   <div class="weiboshow">
@@ -222,7 +220,7 @@
 	<div class="social-font">
 		
 		
-		<a href="https://github.com/https://github.com/lenve" target="_blank" class="icon-github" title="github"></a>
+		<a href="https://github.com/lenve" target="_blank" class="icon-github" title="github"></a>
 		
 		
 		
