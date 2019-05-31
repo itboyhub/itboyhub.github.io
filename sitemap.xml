@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.itboyhub.com/about/index.html</loc>
+    
+    <lastmod>2019-05-31T15:02:42.677Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.itboyhub.com/artificial-intelligence/index.html</loc>
     
     <lastmod>2019-05-31T14:41:58.890Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://www.itboyhub.com/blockchain/index.html</loc>
     
     <lastmod>2019-05-31T14:38:11.446Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.itboyhub.com/about/index.html</loc>
-    
-    <lastmod>2019-05-31T14:37:29.816Z</lastmod>
     
   </url>
   
